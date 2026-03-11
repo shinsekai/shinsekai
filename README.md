@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-As a passionate **Developer & Platform Builder**, I love building cloud platforms and SaaS-based applications. My expertise spans across multi-cloud environments, container orchestration, and infrastructure as code.
+Developer & Platform Builder crafting robust cloud platforms and SaaS applications across multi-cloud environments. I turn complex infrastructure into elegant, scalable systems — powered by container orchestration, infrastructure as code, and a deep love for automation.
 
-🛫 In addition to my work in technology, I'm also a regular **virtual pilot** and enjoy playing **golf** 🏌️. When I'm not in the cockpit or on the course, I'm focused on helping organizations modernize their infrastructure and streamline their operations with best practices in **DevOps** and **cloud architecture**.
+🛫 Off the clock, you'll find me flying virtual skies as a sim pilot or chasing birdies on the golf course 🏌️. Whether it's a Kubernetes cluster or a tricky par 5, I'm all about precision, strategy, and sticking the landing.
 
 > *Let's build something amazing together!*
 
