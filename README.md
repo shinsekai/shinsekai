@@ -12,7 +12,7 @@
 
 Developer & Platform Builder crafting robust cloud platforms and SaaS applications across multi-cloud environments. I turn complex infrastructure into elegant, scalable systems — powered by container orchestration, infrastructure as code, and a deep love for automation.
 
-🛫 Off the clock, you'll find me flying virtual skies as a sim pilot or chasing birdies on the golf course 🏌️. Whether it's a Kubernetes cluster or a tricky par 5, I'm all about precision, strategy, and sticking the landing.
+🛫 Off the clock, you'll find me readling and learning through new concepts & methodologies or chasing birdies on the golf course 🏌️. Whether it's a Kubernetes cluster or a tricky par 5, I'm all about precision, strategy, and sticking the landing.
 
 > *Discipline, consistency and hard work!*
 
