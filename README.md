@@ -20,6 +20,8 @@ Developer & Platform Builder crafting robust cloud platforms and SaaS applicatio
 
 ## 💻 My Tech Stack
 
+![](https://komarev.com/ghpvc/?username=shinsekai&color=blue)
+
 ### ☁️ Cloud & Infrastructure
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
