@@ -14,7 +14,7 @@ Developer & Platform Builder crafting robust cloud platforms and SaaS applicatio
 
 🛫 Off the clock, you'll find me flying virtual skies as a sim pilot or chasing birdies on the golf course 🏌️. Whether it's a Kubernetes cluster or a tricky par 5, I'm all about precision, strategy, and sticking the landing.
 
-> *Let's build something amazing together!*
+> *Discipline, consistency and hard work!*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
